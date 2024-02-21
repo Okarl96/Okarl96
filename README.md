@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Okarl96
-- 🌱 I’m currently MPhil Physics student at Cambridge
+- 🌱 I’m currently PhD Physics student at Cambridge
 
 
 <!---
